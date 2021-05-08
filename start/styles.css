@@ -1,0 +1,19 @@
+* {
+    margin: 0px;
+    padding: 0px;
+
+}
+
+html, body {
+    height: 100vh;
+    width: 100vh;
+}
+/*  homepage css */
+#home-container {
+    background-color: blue;
+    height: 100%;
+    grid-template-rows: 1fr 1fr;
+}
+
+
+/*  end homepage css */
