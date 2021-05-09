@@ -12,8 +12,12 @@ html, body {
 .cursive {
     font-family: 'Cookie', cursive;
 }
+
 .circle {
     border-radius: 50%;
+}
+.drop-shadow {
+    text-shadow: 3px 3px 3px #000;
 }
 
 #home-container {
@@ -51,6 +55,7 @@ html, body {
     color: #fff;
     text-decoration: none;
     padding: 15px .5em;
+    text-shadow: 3px 3px 3px #000;
 }
 .home-main-nav > ul > li:first-child {
     font-family: 'Cookie', cursive;
